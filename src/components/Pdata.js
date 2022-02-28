@@ -41,7 +41,7 @@ const Pdata= [
     {
         title: "React Website  ",
         content: "  I created my portfolio website using React. This website is running in AWS and I added my project in Github as well. ",
-        links:  "http://adwebportfolio.com",
+        links:  "https://github.com/das744/myportfolio",
         imgsrc: react,
 
     },
